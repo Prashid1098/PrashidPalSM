@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PrashidPalSM/static/css/main.c0311ca4.css",
+    "main.js": "/PrashidPalSM/static/js/main.c76ca516.js",
+    "index.html": "/PrashidPalSM/index.html",
+    "main.c0311ca4.css.map": "/PrashidPalSM/static/css/main.c0311ca4.css.map",
+    "main.c76ca516.js.map": "/PrashidPalSM/static/js/main.c76ca516.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0311ca4.css",
+    "static/js/main.c76ca516.js"
+  ]
+}
