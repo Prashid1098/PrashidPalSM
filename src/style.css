@@ -1,0 +1,50 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    background-color: #F4F4F4;
+}
+.Head-Container
+{
+    padding-top: 15px;
+    display: flex;
+    background-color: #F05A22;
+}
+.Icon
+{
+    font-size: 22px;
+    margin-left: 4vw;
+    color: white;
+    font-weight: 800;
+}
+.Signs img
+{
+    width: 20vw;
+    height: 6vh;
+    margin-left: 25vw;
+}
+.mid
+{
+    margin-left: 5vw;
+    margin-top: 4vh;
+}
+.smft
+{
+    font-size: 36px;
+    font-weight: 700;
+    font-style: Montserrat;
+}
+.searchbar
+{
+    background-color: white;
+    width: 94%;
+    height: 6vh;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+    margin-top: 2vh;
+}
